@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1543344595 source:c:\users\agis\desktop\a13f6.c
+	<stdio.h>
+	"genlib.h"
+	"simpio.h"
+
